@@ -1,0 +1,14 @@
+<resources>
+    <string name="app_name">Discoracle</string>
+    <string name="moon_endpoint">http://api.burningsoul.in/moon</string>
+    <string name="action_settings">Settings</string>
+    <string name="string_frase_nombre">A ver, cual es tu nombre</string>
+    <string name="string_frase_pregunta0">¿Eres bobo?</string>
+    <string name="string_frase_pregunta1">¿Te pica el sobaco?</string>
+    <string name="string_frase_pregunta2">¿Tienes hambre?</string>
+    <string name="string_frase_pregunta3">¿Tienes más ganas de dar abrazos o puñetazos?</string>
+    <string name="string_frase_pregunta4">¿Hace sol?</string>
+    <string name="string_frase_pregunta5">¿Mañana trabajas?</string>
+    <string name="string_boton_volver">Preguntar de nuevo</string>
+    <string name="string_frase_respuesta">A mi que coño me preguntas, %1$s, anda y vete a tomar por culo por ahí, es decir, a %2$s millones de kilometros</string>
+</resources>
