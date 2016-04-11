@@ -27,7 +27,6 @@ public class MainActivity extends AppCompatActivity {
         FrontFragment fragment = FrontFragment.newInstance();
         transaction.add(R.id.main_fragment,fragment,FrontFragment.tag);
         transaction.commit();
-
     }
 
     @Override

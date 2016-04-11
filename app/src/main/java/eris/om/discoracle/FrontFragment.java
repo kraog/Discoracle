@@ -44,6 +44,7 @@ public class FrontFragment extends Fragment implements FrontViewModel.FrontListe
     FrontBinding binding;
     String lunadistancia;
     String nombre;
+    LunaAPIConsumer lunaAPIConsumer;
 
     public FrontFragment() {
     }
